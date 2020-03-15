@@ -1,3 +1,7 @@
 gom 'astuart.co/goq', :tag => "v1.0.0"
 gom 'github.com/nokusukun/jikan2go', :tag => "v0.1.6"
 gom 'go.mongodb.org/mongo-driver/mongo'
+gom 'github.com/cenkalti/backoff', :tag => "v4"
+gom 'github.com/aws/aws-sdk-go'
+gom 'github.com/spf13/viper', :tag => "v1.6.2"
+gom 'github.com/nleeper/goment'
